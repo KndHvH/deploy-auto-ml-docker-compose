@@ -7,6 +7,7 @@ This project uses docker-compose to manage the deployment of a ML model trained 
 - [Docker](https://www.docker.com/get-started) - **pre-requisite**
 - [Docker Compose](https://docs.docker.com/compose/) - **pre-requisite**
 - [Pipenv](https://github.com/pypa/pipenv)
+- [Makefile](https://www.geeksforgeeks.org/how-to-install-make-on-ubuntu/) **pre-requisite**
 
 *Please pay attention on **pre-requisites** resources that you must install/configure.*
 
