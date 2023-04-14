@@ -25,7 +25,7 @@ make docker/up/database
 make docker/run
 ```
 
-*The project will be running at `http://localhost:8000/`*
+*The project will be running at `http://localhost:8501/`*
 
 The `entrypoint` of this project is the `main.py` file on the root path.
 
